@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+VJ+Barayuga!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from the Philippines ph</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a state university**
+ 🔭 I’m currently working on **a State University**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Supabase, AWS, Azure**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/vjbarayuga/issues)**
 
