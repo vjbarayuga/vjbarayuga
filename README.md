@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a State University**
+ 🔭 I’m currently working in **a State University here in the Philippines**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS, Azure**
+ 🌱 I’m currently learning **Docker, AWS, Azure**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/vjbarayuga/issues)**
+💬 Ask me about **Node.js, ReactJS, Firebase... or anything [here](https://github.com/vjbarayuga/)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
